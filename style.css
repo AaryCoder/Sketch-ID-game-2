@@ -1,0 +1,25 @@
+body{
+    background-color: darkturquoise;
+}
+
+#score{
+    font-size: large;
+    margin-left: 20px;
+
+}
+
+#time{
+    font-size: larger;
+    float:right;
+    margin-right: 20px;
+
+}
+
+#sketch_name{
+    color: crimson;
+
+}
+
+#show_sketch{
+    float: right;
+}
